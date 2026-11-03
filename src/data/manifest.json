@@ -1,0 +1,345 @@
+{
+ "render-01": {
+  "src": "assets/visualization/render-01.jpg",
+  "thumb": "assets/visualization/thumbs/render-01.jpg",
+  "w": 1728,
+  "h": 997,
+  "page": 12
+ },
+ "render-02": {
+  "src": "assets/visualization/render-02.jpg",
+  "thumb": "assets/visualization/thumbs/render-02.jpg",
+  "w": 1729,
+  "h": 998,
+  "page": 13
+ },
+ "render-03": {
+  "src": "assets/visualization/render-03.jpg",
+  "thumb": "assets/visualization/thumbs/render-03.jpg",
+  "w": 1729,
+  "h": 997,
+  "page": 14
+ },
+ "render-04": {
+  "src": "assets/visualization/render-04.jpg",
+  "thumb": "assets/visualization/thumbs/render-04.jpg",
+  "w": 1730,
+  "h": 998,
+  "page": 15
+ },
+ "render-05": {
+  "src": "assets/visualization/render-05.jpg",
+  "thumb": "assets/visualization/thumbs/render-05.jpg",
+  "w": 1729,
+  "h": 1004,
+  "page": 16
+ },
+ "arch-3d-01": {
+  "src": "assets/architecture/arch-3d-01.jpg",
+  "thumb": "assets/architecture/thumbs/arch-3d-01.jpg",
+  "w": 1764,
+  "h": 730,
+  "page": 27
+ },
+ "arch-3d-02": {
+  "src": "assets/architecture/arch-3d-02.jpg",
+  "thumb": "assets/architecture/thumbs/arch-3d-02.jpg",
+  "w": 1728,
+  "h": 766,
+  "page": 28
+ },
+ "arch-roof-plan": {
+  "src": "assets/architecture/arch-roof-plan.jpg",
+  "thumb": "assets/architecture/thumbs/arch-roof-plan.jpg",
+  "w": 1238,
+  "h": 1154,
+  "page": 29
+ },
+ "arch-elevation": {
+  "src": "assets/architecture/arch-elevation.jpg",
+  "thumb": "assets/architecture/thumbs/arch-elevation.jpg",
+  "w": 1871,
+  "h": 558,
+  "page": 30
+ },
+ "plan-gf-rooms": {
+  "src": "assets/sheets/plan-gf-rooms.jpg",
+  "thumb": "assets/sheets/thumbs/plan-gf-rooms.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 1
+ },
+ "plan-ff-rooms": {
+  "src": "assets/sheets/plan-ff-rooms.jpg",
+  "thumb": "assets/sheets/thumbs/plan-ff-rooms.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 2
+ },
+ "plan-sf-rooms": {
+  "src": "assets/sheets/plan-sf-rooms.jpg",
+  "thumb": "assets/sheets/thumbs/plan-sf-rooms.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 3
+ },
+ "plan-gf-dims": {
+  "src": "assets/sheets/plan-gf-dims.jpg",
+  "thumb": "assets/sheets/thumbs/plan-gf-dims.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 4
+ },
+ "plan-ff-dims": {
+  "src": "assets/sheets/plan-ff-dims.jpg",
+  "thumb": "assets/sheets/thumbs/plan-ff-dims.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 5
+ },
+ "plan-sf-dims": {
+  "src": "assets/sheets/plan-sf-dims.jpg",
+  "thumb": "assets/sheets/thumbs/plan-sf-dims.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 6
+ },
+ "plan-gf-grid": {
+  "src": "assets/sheets/plan-gf-grid.jpg",
+  "thumb": "assets/sheets/thumbs/plan-gf-grid.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 38
+ },
+ "plan-sf-grid": {
+  "src": "assets/sheets/plan-sf-grid.jpg",
+  "thumb": "assets/sheets/thumbs/plan-sf-grid.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 48
+ },
+ "plan-ff-grid": {
+  "src": "assets/sheets/plan-ff-grid.jpg",
+  "thumb": "assets/sheets/thumbs/plan-ff-grid.jpg",
+  "w": 2339,
+  "h": 1654,
+  "page": 49
+ },
+ "plan-gf-cad": {
+  "src": "assets/sheets/plan-gf-cad.jpg",
+  "thumb": "assets/sheets/thumbs/plan-gf-cad.jpg",
+  "w": 2339,
+  "h": 1653,
+  "page": 37
+ },
+ "plan-ff-cad": {
+  "src": "assets/sheets/plan-ff-cad.jpg",
+  "thumb": "assets/sheets/thumbs/plan-ff-cad.jpg",
+  "w": 2339,
+  "h": 1653,
+  "page": 36
+ },
+ "plan-sf-cad": {
+  "src": "assets/sheets/plan-sf-cad.jpg",
+  "thumb": "assets/sheets/thumbs/plan-sf-cad.jpg",
+  "w": 2339,
+  "h": 1653,
+  "page": 39
+ },
+ "str-analytical": {
+  "src": "assets/structure/str-analytical.jpg",
+  "thumb": "assets/structure/thumbs/str-analytical.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 40
+ },
+ "str-rebar-views": {
+  "src": "assets/structure/str-rebar-views.jpg",
+  "thumb": "assets/structure/thumbs/str-rebar-views.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 41
+ },
+ "str-footing": {
+  "src": "assets/structure/str-footing.jpg",
+  "thumb": "assets/structure/thumbs/str-footing.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 42
+ },
+ "str-columns": {
+  "src": "assets/structure/str-columns.jpg",
+  "thumb": "assets/structure/thumbs/str-columns.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 43
+ },
+ "str-beams": {
+  "src": "assets/structure/str-beams.jpg",
+  "thumb": "assets/structure/thumbs/str-beams.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 44
+ },
+ "str-slab-1": {
+  "src": "assets/structure/str-slab-1.jpg",
+  "thumb": "assets/structure/thumbs/str-slab-1.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 45
+ },
+ "str-slab-2": {
+  "src": "assets/structure/str-slab-2.jpg",
+  "thumb": "assets/structure/thumbs/str-slab-2.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 46
+ },
+ "str-schedule": {
+  "src": "assets/structure/str-schedule.jpg",
+  "thumb": "assets/structure/thumbs/str-schedule.jpg",
+  "w": 2200,
+  "h": 1700,
+  "page": 47
+ },
+ "mep-hvac-elev-front": {
+  "src": "assets/mep/mep-hvac-elev-front.jpg",
+  "thumb": "assets/mep/thumbs/mep-hvac-elev-front.jpg",
+  "w": 1802,
+  "h": 579,
+  "page": 17
+ },
+ "mep-hvac-elev-side": {
+  "src": "assets/mep/mep-hvac-elev-side.jpg",
+  "thumb": "assets/mep/thumbs/mep-hvac-elev-side.jpg",
+  "w": 1665,
+  "h": 572,
+  "page": 18
+ },
+ "mep-hvac-iso": {
+  "src": "assets/mep/mep-hvac-iso.jpg",
+  "thumb": "assets/mep/thumbs/mep-hvac-iso.jpg",
+  "w": 1580,
+  "h": 1040,
+  "page": 19
+ },
+ "mep-duct-l1": {
+  "src": "assets/mep/mep-duct-l1.jpg",
+  "thumb": "assets/mep/thumbs/mep-duct-l1.jpg",
+  "w": 1650,
+  "h": 1392,
+  "page": 20
+ },
+ "mep-duct-l2": {
+  "src": "assets/mep/mep-duct-l2.jpg",
+  "thumb": "assets/mep/thumbs/mep-duct-l2.jpg",
+  "w": 1802,
+  "h": 1450,
+  "page": 21
+ },
+ "mep-duct-l3": {
+  "src": "assets/mep/mep-duct-l3.jpg",
+  "thumb": "assets/mep/thumbs/mep-duct-l3.jpg",
+  "w": 1850,
+  "h": 1405,
+  "page": 22
+ },
+ "mep-plumb-section": {
+  "src": "assets/mep/mep-plumb-section.jpg",
+  "thumb": "assets/mep/thumbs/mep-plumb-section.jpg",
+  "w": 1107,
+  "h": 1222,
+  "page": 23
+ },
+ "mep-plumb-iso": {
+  "src": "assets/mep/mep-plumb-iso.jpg",
+  "thumb": "assets/mep/thumbs/mep-plumb-iso.jpg",
+  "w": 1084,
+  "h": 1368,
+  "page": 24
+ },
+ "coord-clash-01": {
+  "src": "assets/coordination/coord-clash-01.jpg",
+  "thumb": "assets/coordination/thumbs/coord-clash-01.jpg",
+  "w": 1156,
+  "h": 1367,
+  "page": 7
+ },
+ "coord-clash-02": {
+  "src": "assets/coordination/coord-clash-02.jpg",
+  "thumb": "assets/coordination/thumbs/coord-clash-02.jpg",
+  "w": 1031,
+  "h": 1367,
+  "page": 8
+ },
+ "coord-clash-03": {
+  "src": "assets/coordination/coord-clash-03.jpg",
+  "thumb": "assets/coordination/thumbs/coord-clash-03.jpg",
+  "w": 1005,
+  "h": 1367,
+  "page": 9
+ },
+ "coord-clash-04": {
+  "src": "assets/coordination/coord-clash-04.jpg",
+  "thumb": "assets/coordination/thumbs/coord-clash-04.jpg",
+  "w": 990,
+  "h": 1367,
+  "page": 10
+ },
+ "coord-clash-05": {
+  "src": "assets/coordination/coord-clash-05.jpg",
+  "thumb": "assets/coordination/thumbs/coord-clash-05.jpg",
+  "w": 1060,
+  "h": 1367,
+  "page": 11
+ },
+ "coord-section-01": {
+  "src": "assets/coordination/coord-section-01.jpg",
+  "thumb": "assets/coordination/thumbs/coord-section-01.jpg",
+  "w": 1951,
+  "h": 1341,
+  "page": 31
+ },
+ "coord-section-02": {
+  "src": "assets/coordination/coord-section-02.jpg",
+  "thumb": "assets/coordination/thumbs/coord-section-02.jpg",
+  "w": 1951,
+  "h": 1255,
+  "page": 32
+ },
+ "coord-4d-01": {
+  "src": "assets/coordination/coord-4d-01.jpg",
+  "thumb": "assets/coordination/thumbs/coord-4d-01.jpg",
+  "w": 1598,
+  "h": 1370,
+  "page": 33
+ },
+ "coord-4d-02": {
+  "src": "assets/coordination/coord-4d-02.jpg",
+  "thumb": "assets/coordination/thumbs/coord-4d-02.jpg",
+  "w": 1574,
+  "h": 1368,
+  "page": 34
+ },
+ "coord-4d-03": {
+  "src": "assets/coordination/coord-4d-03.jpg",
+  "thumb": "assets/coordination/thumbs/coord-4d-03.jpg",
+  "w": 1510,
+  "h": 1367,
+  "page": 35
+ },
+ "plan-p6-gantt": {
+  "src": "assets/planning/plan-p6-gantt.jpg",
+  "thumb": "assets/planning/thumbs/plan-p6-gantt.jpg",
+  "w": 1436,
+  "h": 1666,
+  "page": 25
+ },
+ "plan-p6-wbs": {
+  "src": "assets/planning/plan-p6-wbs.jpg",
+  "thumb": "assets/planning/thumbs/plan-p6-wbs.jpg",
+  "w": 1405,
+  "h": 1445,
+  "page": 26
+ }
+}

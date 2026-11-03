@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+  body {
+    @apply bg-paper font-sans text-ink antialiased;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+  ::selection {
+    @apply bg-clay text-white;
+  }
+}
+
+@layer components {
+  /* small uppercase technical label */
+  .label {
+    @apply font-medium uppercase tracking-label text-[11px] leading-tight;
+  }
+}
+
+/* ---------- Print / Save-as-PDF layout ---------- */
+@page {
+  size: A4 landscape;
+  margin: 10mm;
+}
+
+@media print {
+  html,
+  body {
+    background: #fff !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  /* sections always visible even if scroll-reveal never fired */
+  [style*='opacity'] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  .page-section {
+    break-before: page;
+    break-inside: auto;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    border-top: 0 !important;
+    background: #fff !important;
+  }
+  .page-section:first-of-type,
+  .page-section.cover {
+    break-before: auto;
+  }
+  .cover {
+    min-height: 185mm !important;
+  }
+  figure,
+  li,
+  dl > div {
+    break-inside: avoid;
+  }
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+  img {
+    max-width: 100% !important;
+  }
+  a[href]::after {
+    content: none !important;
+  }
+}
