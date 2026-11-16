@@ -1,0 +1,85 @@
+
+[
+  {
+    "name": "BIM Modeling",
+    "tools": [
+      {
+        "name": "Revit Architecture",
+        "shownOn": {
+          "label": "Page 04",
+          "id": "architecture"
+        }
+      },
+      {
+        "name": "Revit Structure",
+        "shownOn": {
+          "label": "Page 05",
+          "id": "structure"
+        }
+      },
+      {
+        "name": "Revit MEP",
+        "shownOn": {
+          "label": "Page 06",
+          "id": "mep"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Coordination",
+    "tools": [
+      {
+        "name": "Navisworks",
+        "shownOn": {
+          "label": "Page 08",
+          "id": "coordination"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Drafting & Design",
+    "tools": [
+      {
+        "name": "AutoCAD"
+      },
+      {
+        "name": "SketchUp"
+      }
+    ]
+  },
+  {
+    "name": "Visualization",
+    "tools": [
+      {
+        "name": "Lumion",
+        "shownOn": {
+          "label": "Page 09",
+          "id": "visualization"
+        }
+      },
+      {
+        "name": "V-Ray"
+      }
+    ]
+  },
+  {
+    "name": "Structural & Planning Tools",
+    "tools": [
+      {
+        "name": "STAAD.Pro"
+      },
+      {
+        "name": "Tekla Structures"
+      },
+      {
+        "name": "Primavera P6",
+        "shownOn": {
+          "label": "Page 09",
+          "id": "visualization"
+        }
+      }
+    ]
+  }
+]

@@ -164,3 +164,35 @@ content:
       - name: heroId
         label: Existing Gallery Image ID
         type: string
+
+  - name: skills
+    label: Skills
+    type: file
+    path: src/content/skills.json
+    format: json
+    list: true
+    fields:
+      - name: name
+        label: Skill Group Name
+        type: string
+
+      - name: tools
+        label: Tools
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Tool Name
+            type: string
+
+          - name: shownOn
+            label: Portfolio Project Link
+            type: object
+            fields:
+              - name: label
+                label: Page Label
+                type: string
+
+              - name: id
+                label: Project Section ID
+                type: string
