@@ -31,7 +31,12 @@ function Row({ icon, label, value, href, external }: RowProps) {
 
 /** Contact details. Fields come from src/data/profile.ts; empty fields show a neutral placeholder. */
 export default function ContactInfo() {
-  const c = profile.contact;
+  const c = profile.contact ?? {
+  email: '',
+  phone: '',
+  linkedin: '',
+  behance: '',
+};
   const tel = c.phone.replace(/[^+\d]/g, '');
   return (
     <ul className="border-b border-line">

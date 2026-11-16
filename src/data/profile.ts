@@ -1,6 +1,17 @@
 
 import profileData from '../content/profile.json';
 
-export const profile = profileData;
+type ContactDetails = {
+  email: string;
+  phone: string;
+  linkedin: string;
+  behance: string;
+};
 
-export type Profile = typeof profile;
+type ProfileData = typeof profileData & {
+  contact?: ContactDetails;
+};
+
+export const profile = profileData as ProfileData;
+
+export type Profile = ProfileData;
