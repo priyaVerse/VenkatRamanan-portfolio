@@ -17,7 +17,7 @@ export default function Cover() {
 
       <div className="mx-auto flex w-full max-w-page flex-1 flex-col justify-end px-5 pb-14 pt-32 md:px-10 md:pb-20">
         <p className="label text-white/75">Page 01 — Cover</p>
-        <h1 className="mt-5 text-[clamp(2.6rem,9vw,8rem)] font-semibold uppercase leading-[0.95] tracking-tight">{profile.name}</h1>
+        <h1 className="mt-5 whitespace-nowrap text-[clamp(1.35rem,6.5vw,7rem)] font-semibold uppercase leading-[0.95] tracking-tight">{profile.name}</h1>
         <div className="mt-8 grid gap-6 md:grid-cols-12 md:items-end">
           <div className="md:col-span-7">
             <p className="text-xl font-medium uppercase tracking-[0.14em] md:text-2xl">{profile.roleShort}</p>
