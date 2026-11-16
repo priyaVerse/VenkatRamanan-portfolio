@@ -31,13 +31,13 @@ function Row({ icon, label, value, href, external }: RowProps) {
 
 /** Contact details. Fields come from src/data/profile.ts; empty fields show a neutral placeholder. */
 export default function ContactInfo() {
-  const c = profile.contact ?? {
-  email: '',
-  phone: '',
-  linkedin: '',
-  behance: '',
+    const c = {
+  email: profile.contact?.email ?? '',
+  phone: profile.contact?.phone ?? '',
+  linkedin: profile.contact?.linkedin ?? '',
+  behance: profile.contact?.behance ?? '',
 };
-  const tel = c.phone.replace(/[^+\d]/g, '');
+    const tel = c.phone.replace(/[^+\d]/g, '');
   return (
     <ul className="border-b border-line">
       <Row icon={<Mail size={18} />} label="Email" value={c.email} href={`mailto:${c.email}`} />
