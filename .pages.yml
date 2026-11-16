@@ -1,0 +1,150 @@
+
+media:
+  - name: portfolio-images
+    label: Portfolio Images
+    input: public/uploads/images
+    output: /uploads/images
+    extensions:
+      - jpg
+      - jpeg
+      - png
+      - webp
+    rename: safe
+
+  - name: portfolio-documents
+    label: Portfolio Documents
+    input: public/uploads/documents
+    output: /uploads/documents
+    categories:
+      - document
+    extensions:
+      - pdf
+    rename: safe
+
+content:
+  - name: profile
+    label: Profile Information
+    type: file
+    path: src/content/profile.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: name
+        label: Full Name
+        type: string
+
+      - name: roleShort
+        label: Professional Title
+        type: string
+
+      - name: disciplines
+        label: Disciplines
+        type: string
+        list: true
+
+      - name: tagline
+        label: Portfolio Tagline
+        type: text
+
+      - name: roleLine
+        label: Professional Role
+        type: string
+
+      - name: location
+        label: Location
+        type: string
+
+      - name: education
+        label: Education
+        type: text
+
+      - name: training
+        label: Training
+        type: text
+
+      - name: goal
+        label: Career Objective
+        type: text
+
+      - name: contact
+        label: Contact Details
+        type: object
+        fields:
+          - name: email
+            label: Email
+            type: string
+
+          - name: phone
+            label: Phone
+            type: string
+
+          - name: linkedin
+            label: LinkedIn
+            type: string
+
+          - name: behance
+            label: Behance
+            type: string
+
+      - name: sourcePdf
+        label: Portfolio PDF Path
+        type: string
+
+  - name: projects
+    label: Projects
+    type: file
+    path: src/content/projects.json
+    format: json
+    list: true
+    fields:
+      - name: id
+        label: Project ID
+        type: string
+
+      - name: no
+        label: Project Number
+        type: string
+
+      - name: title
+        label: Project Title
+        type: string
+
+      - name: type
+        label: Project Type
+        type: string
+
+      - name: discipline
+        label: Discipline
+        type: string
+
+      - name: purpose
+        label: Project Purpose
+        type: text
+
+      - name: software
+        label: Software Used
+        type: string
+        list: true
+
+      - name: scope
+        label: Project Scope
+        type: text
+        list: true
+
+      - name: deliverables
+        label: Deliverables
+        type: text
+        list: true
+
+      - name: roleType
+        label: Role Type
+        type: string
+
+      - name: roleNote
+        label: Role Description
+        type: text
+
+      - name: heroId
+        label: Existing Gallery Image ID
+        type: string
