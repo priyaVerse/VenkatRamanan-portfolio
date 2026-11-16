@@ -561,5 +561,17 @@
     "software": [
       "Primavera P6"
     ]
+  },
+  {
+    "id": "arch-test-01",
+    "image": "/uploads/images/a2ui0uflmj6guzqlqz4hxxpmep26qfjjpajjbgu0pvplwdrq5m95yybtzxy7hdpcclkkv-bnotfjfvtrjs1rsjnsauiatwzw4u0tep5udqtuormyc6tjvludhy9u5vdybu7lpahcjwn7i-lfcg12ekftmgfbbockwavhsigt67p2bi9ptotmxprlgsypt.jpg",
+    "title": "Test Architecture Image",
+    "caption": "Test image uploaded through Pages CMS.",
+    "discipline": "Architecture",
+    "kind": "\tScreenshot",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Leave empty"
   }
 ]
