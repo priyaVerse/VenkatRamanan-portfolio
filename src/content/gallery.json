@@ -568,10 +568,9 @@
     "title": "Test Architecture Image",
     "caption": "Test image uploaded through Pages CMS.",
     "discipline": "Architecture",
-    "kind": "\tScreenshot",
+    "kind": "Screenshot",
     "software": [
       "Revit Architecture"
-    ],
-    "docGroup": "Leave empty"
+    ]
   }
 ]
