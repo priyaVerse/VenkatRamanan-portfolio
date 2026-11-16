@@ -1,0 +1,565 @@
+[
+  {
+    "id": "render-01",
+    "image": "/assets/visualization/render-01.jpg",
+    "title": "Glazed façade — corner view",
+    "caption": "Rendered view of the glazed office block with stone-clad feature tower and entrance canopy.",
+    "discipline": "Visualization",
+    "kind": "Render",
+    "software": [
+      "Lumion"
+    ]
+  },
+  {
+    "id": "render-02",
+    "image": "/assets/visualization/render-02.jpg",
+    "title": "Entrance forecourt",
+    "caption": "Feature wall with circular emblem, canopy, paved forecourt and gateway portal.",
+    "discipline": "Visualization",
+    "kind": "Render",
+    "software": [
+      "Lumion"
+    ]
+  },
+  {
+    "id": "render-03",
+    "image": "/assets/visualization/render-03.jpg",
+    "title": "Side approach",
+    "caption": "Façade and boundary wall seen from the access road side.",
+    "discipline": "Visualization",
+    "kind": "Render",
+    "software": [
+      "Lumion"
+    ]
+  },
+  {
+    "id": "render-04",
+    "image": "/assets/visualization/render-04.jpg",
+    "title": "Parking and landscape side",
+    "caption": "Secondary entrance, parking bays, two-wheeler parking and planting.",
+    "discipline": "Visualization",
+    "kind": "Render",
+    "software": [
+      "Lumion"
+    ]
+  },
+  {
+    "id": "render-05",
+    "image": "/assets/visualization/render-05.jpg",
+    "title": "Aerial view",
+    "caption": "Roof layout and site arrangement seen from above.",
+    "discipline": "Visualization",
+    "kind": "Render",
+    "software": [
+      "Lumion"
+    ]
+  },
+  {
+    "id": "arch-3d-01",
+    "image": "/assets/architecture/arch-3d-01.jpg",
+    "title": "Revit 3D view — entrance side",
+    "caption": "Glazed curtain-wall office block with feature wall and entrance portal.",
+    "discipline": "Architecture",
+    "kind": "3D view",
+    "software": [
+      "Revit Architecture"
+    ]
+  },
+  {
+    "id": "arch-3d-02",
+    "image": "/assets/architecture/arch-3d-02.jpg",
+    "title": "Revit 3D view — rear block",
+    "caption": "Opposite corner showing the stepped masses, rooftop structures and landscaping.",
+    "discipline": "Architecture",
+    "kind": "3D view",
+    "software": [
+      "Revit Architecture"
+    ]
+  },
+  {
+    "id": "arch-roof-plan",
+    "image": "/assets/architecture/arch-roof-plan.jpg",
+    "title": "Roof and site plan view",
+    "caption": "Top view of roof, rooftop structures, landscaping and site boundary.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ]
+  },
+  {
+    "id": "arch-elevation",
+    "image": "/assets/architecture/arch-elevation.jpg",
+    "title": "Front elevation",
+    "caption": "Elevation with feature wall, curtain-wall grid and entrance portal.",
+    "discipline": "Architecture",
+    "kind": "Elevation",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "plan-gf-rooms",
+    "image": "/assets/sheets/plan-gf-rooms.jpg",
+    "title": "Basement — room plan",
+    "caption": "Colour-filled rooms with area tags and room legend.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-ff-rooms",
+    "image": "/assets/sheets/plan-ff-rooms.jpg",
+    "title": "First floor — room plan",
+    "caption": "Colour-filled rooms with area tags and room legend.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-sf-rooms",
+    "image": "/assets/sheets/plan-sf-rooms.jpg",
+    "title": "Second floor — room plan",
+    "caption": "Colour-filled rooms with area tags and room legend.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-gf-dims",
+    "image": "/assets/sheets/plan-gf-dims.jpg",
+    "title": "Basement — dimensioned plan",
+    "caption": "Grid-to-grid and overall dimensions with room tags.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-ff-dims",
+    "image": "/assets/sheets/plan-ff-dims.jpg",
+    "title": "First floor — dimensioned plan",
+    "caption": "Grid-to-grid and overall dimensions with room tags.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-sf-dims",
+    "image": "/assets/sheets/plan-sf-dims.jpg",
+    "title": "Second floor — dimensioned plan",
+    "caption": "Grid-to-grid and overall dimensions with room tags.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-gf-grid",
+    "image": "/assets/sheets/plan-gf-grid.jpg",
+    "title": "Basement — gridded plan",
+    "caption": "Numbered and lettered structural grid over the colour-filled plan.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-ff-grid",
+    "image": "/assets/sheets/plan-ff-grid.jpg",
+    "title": "First floor — gridded plan",
+    "caption": "Numbered and lettered structural grid over the colour-filled plan.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-sf-grid",
+    "image": "/assets/sheets/plan-sf-grid.jpg",
+    "title": "Second floor — gridded plan",
+    "caption": "Numbered and lettered structural grid over the colour-filled plan.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-gf-cad",
+    "image": "/assets/sheets/plan-gf-cad.jpg",
+    "title": "Ground floor — line plan with fixtures",
+    "caption": "Black-and-white line plan showing doors, fixtures and furniture.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-ff-cad",
+    "image": "/assets/sheets/plan-ff-cad.jpg",
+    "title": "First floor — line plan with fixtures",
+    "caption": "Black-and-white line plan showing doors, fixtures and furniture.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "plan-sf-cad",
+    "image": "/assets/sheets/plan-sf-cad.jpg",
+    "title": "Second floor — line plan with fixtures",
+    "caption": "Black-and-white line plan showing doors, fixtures and furniture.",
+    "discipline": "Architecture",
+    "kind": "Floor plan",
+    "software": [
+      "Revit Architecture"
+    ],
+    "docGroup": "Floor plans"
+  },
+  {
+    "id": "str-analytical",
+    "image": "/assets/structure/str-analytical.jpg",
+    "title": "Analytical model",
+    "caption": "Analytical frame of slabs, columns and beams on the rebar detailing sheet.",
+    "discipline": "Structure",
+    "kind": "3D view",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Structural sheets"
+  },
+  {
+    "id": "str-rebar-views",
+    "image": "/assets/structure/str-rebar-views.jpg",
+    "title": "Reinforcement model — plan, elevations, isometric",
+    "caption": "Top, front and side views plus isometric of the modeled reinforcement.",
+    "discipline": "Structure",
+    "kind": "Detail sheet",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Structural sheets"
+  },
+  {
+    "id": "str-footing",
+    "image": "/assets/structure/str-footing.jpg",
+    "title": "Footing marking and footing sections",
+    "caption": "Footing layout at 1:200 with footing sections at 1:20 and 1:100.",
+    "discipline": "Structure",
+    "kind": "Detail sheet",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Structural sheets"
+  },
+  {
+    "id": "str-columns",
+    "image": "/assets/structure/str-columns.jpg",
+    "title": "Column reinforcement sections",
+    "caption": "Column sections at 1:50 and a column cross-section callout at 1:2.",
+    "discipline": "Structure",
+    "kind": "Section",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "str-beams",
+    "image": "/assets/structure/str-beams.jpg",
+    "title": "Beam reinforcement sections",
+    "caption": "Beam frame sections at 1:100 and beam details at 1:25 (250×350 and 300×400 beams).",
+    "discipline": "Structure",
+    "kind": "Section",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "str-slab-1",
+    "image": "/assets/structure/str-slab-1.jpg",
+    "title": "Slab reinforcement layout",
+    "caption": "Roof-slab reinforcement at 1:100 with one-way / two-way slab tagging.",
+    "discipline": "Structure",
+    "kind": "Detail sheet",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Structural sheets"
+  },
+  {
+    "id": "str-slab-2",
+    "image": "/assets/structure/str-slab-2.jpg",
+    "title": "Slab schedule",
+    "caption": "Numbered slab panels with one-way / two-way classification and panel sizes.",
+    "discipline": "Structure",
+    "kind": "Schedule",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Schedules"
+  },
+  {
+    "id": "str-schedule",
+    "image": "/assets/structure/str-schedule.jpg",
+    "title": "Rebar quantity estimate",
+    "caption": "Revit rebar schedule grouped by family and type, with weight totals.",
+    "discipline": "Structure",
+    "kind": "Schedule",
+    "software": [
+      "Revit Structure"
+    ],
+    "docGroup": "Schedules"
+  },
+  {
+    "id": "mep-hvac-elev-front",
+    "image": "/assets/mep/mep-hvac-elev-front.jpg",
+    "title": "HVAC ductwork — front elevation",
+    "caption": "Supply ductwork on three levels with a rooftop unit and vertical riser.",
+    "discipline": "MEP",
+    "kind": "Elevation",
+    "software": [
+      "Revit MEP"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "mep-hvac-elev-side",
+    "image": "/assets/mep/mep-hvac-elev-side.jpg",
+    "title": "HVAC ductwork — side elevation",
+    "caption": "Ductwork runs per level with rooftop equipment.",
+    "discipline": "MEP",
+    "kind": "Elevation",
+    "software": [
+      "Revit MEP"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "mep-hvac-iso",
+    "image": "/assets/mep/mep-hvac-iso.jpg",
+    "title": "HVAC ductwork — isometric",
+    "caption": "Duct network over the building outline with rooftop equipment.",
+    "discipline": "MEP",
+    "kind": "3D view",
+    "software": [
+      "Revit MEP"
+    ]
+  },
+  {
+    "id": "mep-duct-l1",
+    "image": "/assets/mep/mep-duct-l1.jpg",
+    "title": "Duct plan with airflow (CFM) colour scheme — level 1",
+    "caption": "Duct runs coloured by airflow with CFM legend and air terminals.",
+    "discipline": "MEP",
+    "kind": "Floor plan",
+    "software": [
+      "Revit MEP"
+    ]
+  },
+  {
+    "id": "mep-duct-l2",
+    "image": "/assets/mep/mep-duct-l2.jpg",
+    "title": "Duct plan with airflow (CFM) colour scheme — level 2",
+    "caption": "Duct runs coloured by airflow with CFM legend and air terminals.",
+    "discipline": "MEP",
+    "kind": "Floor plan",
+    "software": [
+      "Revit MEP"
+    ]
+  },
+  {
+    "id": "mep-duct-l3",
+    "image": "/assets/mep/mep-duct-l3.jpg",
+    "title": "Duct plan with airflow (CFM) colour scheme — level 3",
+    "caption": "Duct runs coloured by airflow with CFM legend and air terminals.",
+    "discipline": "MEP",
+    "kind": "Floor plan",
+    "software": [
+      "Revit MEP"
+    ]
+  },
+  {
+    "id": "mep-plumb-section",
+    "image": "/assets/mep/mep-plumb-section.jpg",
+    "title": "Plumbing riser — section view",
+    "caption": "Water supply and drainage routing to sanitary fixtures on each level, with rooftop tanks.",
+    "discipline": "MEP",
+    "kind": "Section",
+    "software": [
+      "Revit MEP"
+    ],
+    "docGroup": "Elevations & sections"
+  },
+  {
+    "id": "mep-plumb-iso",
+    "image": "/assets/mep/mep-plumb-iso.jpg",
+    "title": "Plumbing system — isometric",
+    "caption": "Supply and drainage pipework with sanitary fixtures and rooftop tanks.",
+    "discipline": "MEP",
+    "kind": "3D view",
+    "software": [
+      "Revit MEP"
+    ]
+  },
+  {
+    "id": "coord-clash-01",
+    "image": "/assets/coordination/coord-clash-01.jpg",
+    "title": "Clash report — summary and Clash 1",
+    "caption": "Test summary (15 hard clashes at 0.001 m tolerance, all status New) and first clash entry.",
+    "discipline": "Coordination",
+    "kind": "Report",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-clash-02",
+    "image": "/assets/coordination/coord-clash-02.jpg",
+    "title": "Clash report — Clashes 2 and 3",
+    "caption": "Clash points, element IDs, layers and item names.",
+    "discipline": "Coordination",
+    "kind": "Report",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-clash-03",
+    "image": "/assets/coordination/coord-clash-03.jpg",
+    "title": "Clash report — Clashes 4 and 5",
+    "caption": "Clash points, element IDs, layers and item names.",
+    "discipline": "Coordination",
+    "kind": "Report",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-clash-04",
+    "image": "/assets/coordination/coord-clash-04.jpg",
+    "title": "Clash report — Clashes 6 and 7",
+    "caption": "Clash points, element IDs, layers and item names.",
+    "discipline": "Coordination",
+    "kind": "Report",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-clash-05",
+    "image": "/assets/coordination/coord-clash-05.jpg",
+    "title": "Clash report — Clashes 8 and 9",
+    "caption": "Includes a rectangular duct clash entry and a roof-level entry.",
+    "discipline": "Coordination",
+    "kind": "Report",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-section-01",
+    "image": "/assets/coordination/coord-section-01.jpg",
+    "title": "Navisworks sectioning — view 1",
+    "caption": "Section plane through the combined model showing ductwork, doors and windows.",
+    "discipline": "Coordination",
+    "kind": "Screenshot",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-section-02",
+    "image": "/assets/coordination/coord-section-02.jpg",
+    "title": "Navisworks sectioning — view 2",
+    "caption": "Second section viewpoint through the floor levels.",
+    "discipline": "Coordination",
+    "kind": "Screenshot",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-4d-01",
+    "image": "/assets/coordination/coord-4d-01.jpg",
+    "title": "TimeLiner simulation — step 1",
+    "caption": "Construction-sequence simulation with planned and actual dates (8–10 July 2026 task shown).",
+    "discipline": "Coordination",
+    "kind": "Screenshot",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-4d-02",
+    "image": "/assets/coordination/coord-4d-02.jpg",
+    "title": "TimeLiner simulation — step 2",
+    "caption": "Simulation showing walls appearing as the schedule advances (10–12 July 2026 task shown).",
+    "discipline": "Coordination",
+    "kind": "Screenshot",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "coord-4d-03",
+    "image": "/assets/coordination/coord-4d-03.jpg",
+    "title": "TimeLiner simulation — step 3",
+    "caption": "Later simulation state with doors and windows in place.",
+    "discipline": "Coordination",
+    "kind": "Screenshot",
+    "software": [
+      "Navisworks"
+    ]
+  },
+  {
+    "id": "plan-p6-gantt",
+    "image": "/assets/planning/plan-p6-gantt.jpg",
+    "title": "Primavera P6 — activities and Gantt",
+    "caption": "Activity table and bar chart across engineering, procurement, construction and commissioning.",
+    "discipline": "Planning",
+    "kind": "Screenshot",
+    "software": [
+      "Primavera P6"
+    ]
+  },
+  {
+    "id": "plan-p6-wbs",
+    "image": "/assets/planning/plan-p6-wbs.jpg",
+    "title": "Primavera P6 — work breakdown structure",
+    "caption": "WBS tree with engineering, procurement, construction and commissioning branches.",
+    "discipline": "Planning",
+    "kind": "Diagram",
+    "software": [
+      "Primavera P6"
+    ]
+  }
+]

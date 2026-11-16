@@ -196,3 +196,45 @@ content:
               - name: id
                 label: Project Section ID
                 type: string
+
+  - name: gallery
+    label: Portfolio Gallery
+    type: file
+    path: src/content/gallery.json
+    format: json
+    list: true
+    fields:
+      - name: id
+        label: Image ID
+        type: string
+
+      - name: image
+        label: Image File
+        type: image
+        options:
+          media: portfolio-images
+
+      - name: title
+        label: Image Title
+        type: string
+
+      - name: caption
+        label: Image Description
+        type: text
+
+      - name: discipline
+        label: Discipline
+        type: string
+
+      - name: kind
+        label: Image Type
+        type: string
+
+      - name: software
+        label: Software Used
+        type: string
+        list: true
+
+      - name: docGroup
+        label: Documentation Group
+        type: string
