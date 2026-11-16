@@ -16,5 +16,8 @@
   "aboutParagraphOne": "I hold a BE in Civil Engineering from Kumaraguru College of Technology and trained in BIM at Pumo Technovation, Coimbatore. The work in this portfolio comes from that training: an office building modeled and documented in Autodesk Revit across architecture, structure and MEP, reviewed in Navisworks, visualized as renders, with a separate Primavera P6 scheduling exercise.",
   "aboutParagraphTwo": "I am most interested in BIM modeling, multidisciplinary coordination and clear technical documentation.",
   "trainingDisclaimer": "Training, not professional work. Every project shown here was produced during BIM training. No client or employer projects are claimed.",
+  "contact": {
+    "email": "ramananvv464@gmail.com"
+  },
   "sourcePdf": "pdf/bim-drawings.pdf"
 }
