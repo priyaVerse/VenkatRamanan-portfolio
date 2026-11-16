@@ -67,6 +67,22 @@ content:
         label: Career Objective
         type: text
 
+      - name: aboutTitle
+        label: About Section Heading
+        type: string
+
+      - name: aboutParagraphOne
+        label: About Biography - Paragraph 1
+        type: text
+
+      - name: aboutParagraphTwo
+        label: About Biography - Paragraph 2
+        type: text
+
+      - name: trainingDisclaimer
+        label: Training Disclaimer
+        type: text
+
       - name: contact
         label: Contact Details
         type: object
