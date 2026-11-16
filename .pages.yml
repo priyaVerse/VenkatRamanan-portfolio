@@ -1,4 +1,12 @@
+settings:
+  content:
+    merge: true
 
+media:
+  - name: portfolio-images
+    label: Portfolio Images
+    input: public/uploads/images
+    output: /uploads/images
 media:
   - name: portfolio-images
     label: Portfolio Images
