@@ -561,17 +561,5 @@
     "software": [
       "Primavera P6"
     ]
-  },
-  {
-    "id": "cms-test-001",
-    "image": "/uploads/images/modern-bim-workspace-with-architectural-model.png",
-    "title": "BIM Workspace – Upload Test",
-    "caption": "Illustrative image for testing gallery uploads through Pages CMS.",
-    "discipline": "Architecture",
-    "kind": "3D Visualization",
-    "software": [
-      "Autodesk Revit"
-    ],
-    "docGroup": "General / BIM Workflow"
   }
 ]
