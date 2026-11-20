@@ -1,4 +1,3 @@
-
 [
   {
     "id": "architecture",
@@ -7,7 +6,10 @@
     "type": "Multi-storey commercial office building",
     "discipline": "Architecture",
     "purpose": "Develop a coordinated architectural Revit model of an office building and extract room-coded plans, dimensioned plans, grid plans and elevation views from it.",
-    "software": ["Revit Architecture", "Lumion"],
+    "software": [
+      "Revit Architecture",
+      "Lumion"
+    ],
     "scope": [
       "Ground, first and second floor layouts with escalator core, walkways, workspaces, cabins, conference and service rooms",
       "Glazed curtain-wall façade with feature wall, entrance canopy and gateway portal",
@@ -15,7 +17,7 @@
     ],
     "deliverables": [
       "Colour-filled room plans with area tags and legends",
-      "Dimensioned plans and gridded plans (grids 1–15, A–L)",
+      "Dimensioned plans and gridded plans ",
       "Line plans with fixtures and furniture",
       "Front elevation, 3D views and roof / site plan"
     ],
@@ -30,7 +32,9 @@
     "type": "Reinforced-concrete frame with detailed reinforcement",
     "discipline": "Structure",
     "purpose": "Model the structural frame of the office building in Revit and detail footing, column, beam and slab reinforcement with a quantity estimate.",
-    "software": ["Revit Structure"],
+    "software": [
+      "Revit Structure"
+    ],
     "scope": [
       "Isolated footings, columns, beams and slabs of the multi-storey frame",
       "Reinforcement modeled for footings (12 mm), columns (16 mm longitudinal), beams (12 mm main bars, 8 mm stirrups) and slabs (10 mm)",
@@ -53,7 +57,9 @@
     "type": "HVAC and plumbing models",
     "discipline": "MEP",
     "purpose": "Model mechanical and plumbing systems in the office building to produce ductwork views, airflow colour plans and plumbing riser views.",
-    "software": ["Revit MEP"],
+    "software": [
+      "Revit MEP"
+    ],
     "scope": [
       "HVAC supply ductwork on three levels with air terminals, vertical riser and rooftop equipment",
       "Plumbing supply and drainage pipework to sanitary fixtures with rooftop tanks"
@@ -74,7 +80,9 @@
     "type": "Model review, clash test and 4D simulation",
     "discipline": "Coordination",
     "purpose": "Review the combined model in Navisworks, run a hard-clash test and preview a construction sequence with TimeLiner.",
-    "software": ["Navisworks"],
+    "software": [
+      "Navisworks"
+    ],
     "scope": [
       "Hard-clash test \"E H Clash\" at 0.001 m tolerance",
       "Section-plane viewpoints through the combined model",
@@ -96,7 +104,10 @@
     "type": "Rendered views and project scheduling",
     "discipline": "Visualization",
     "purpose": "Present the Revit model as rendered views and practise scheduling with Primavera P6.",
-    "software": ["Lumion", "Primavera P6"],
+    "software": [
+      "Lumion",
+      "Primavera P6"
+    ],
     "scope": [
       "Five rendered views of the office building",
       "Primavera P6 activity schedule and work breakdown structure"
